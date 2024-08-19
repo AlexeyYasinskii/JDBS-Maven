@@ -2,6 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/e392d9c8-1b9f-4535-9ed1-874c35dfa558/console.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/eac1c2f4-66a5-4338-9728-6066048cd866/console.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" dialect="MySQL" />
   </component>
 </project>
